@@ -2,7 +2,7 @@
 	"name": "theme-monokai-dark-pop",
 	"displayName": "Monokai Dark Pop",
 	"description": "A dark theme with bright colors",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "thebearingedge",
 	"repository": "https://github.com/thebearingedge/vs-code-theme-monokai-dark-pop",
     "icon": "theme-monokai-dark-pop.png",
