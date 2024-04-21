@@ -1,22 +1,15 @@
-# Monokai Dark Soda
-[![GitHub license](https://img.shields.io/github/license/AdamCaviness/vs-code-theme-monokai-dark-soda)](https://img.shields.io/github/license/AdamCaviness/vs-code-theme-monokai-dark-soda)
-[![GitHub forks](https://img.shields.io/github/issues/AdamCaviness/vs-code-theme-monokai-dark-soda)](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/issues)
-[![GitHub forks](https://img.shields.io/github/forks/AdamCaviness/vs-code-theme-monokai-dark-soda)](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/fork)
-[![GitHub stars](https://img.shields.io/github/stars/AdamCaviness/vs-code-theme-monokai-dark-soda)](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/stargazers)
+# Monokai Dark Pop
 
+> Forked from Adam Caviness [Monokai Dark Soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda).
 
-
-
-> This theme is based on the excellent [Monokai Dark Soda textmate theme](https://github.com/mrlundis/Monokai-Dark-Soda.tmTheme).
-
-![](theme-monokai-dark-soda.png)
+![](theme-monokai-dark-pop.png)
 
 ## Installation
 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```sh
-ext install AdamCaviness.theme-monokai-dark-soda
+ext install thebearingedge.theme-monokai-dark-pop
 ```
 
 ## Color Palette
@@ -44,11 +37,11 @@ Malibu      | `#90E7F7` | `144, 231, 247`  | `189, 42%, 77%`  | ![Malibu Color](
 
 #### Want more?
 ![Want more? gif](https://thumbs.gfycat.com/FreshAmpleFly-small.gif)
-#### Open an [issue](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/issues/new)!
+#### Open an [issue](https://github.com/thebearingedge/vs-code-theme-monokai-dark-pop/issues/new)!
 
 ## Contributing
 
-1. Fork it [vs-code-theme-monokai-dark-soda ](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda/fork)
+1. Fork it [vs-code-theme-monokai-dark-pop ](https://github.com/thebearingedge/vs-code-theme-monokai-dark-pop/fork)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)

@@ -1,12 +1,12 @@
 {
-	"name": "theme-monokai-dark-soda",
-	"displayName": "Monokai Dark Soda",
+	"name": "theme-monokai-dark-pop",
+	"displayName": "Monokai Dark Pop",
 	"description": "A dark theme with bright colors",
-	"version": "1.2.0",
-	"publisher": "AdamCaviness",
-	"repository": "https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda",
-    "icon": "theme-monokai-dark-soda.png",
-	"keywords": ["monokai", "dark", "soda", "theme", "vscode"],
+	"version": "1.0.0",
+	"publisher": "thebearingedge",
+	"repository": "https://github.com/thebearingedge/vs-code-theme-monokai-dark-pop",
+    "icon": "theme-monokai-dark-pop.png",
+	"keywords": ["monokai", "dark", "pop", "theme", "vscode"],
 	"engines": {
 		"vscode": "^0.10.1"
 	},
@@ -16,9 +16,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Monokai Dark Soda",
+				"label": "Monokai Dark Pop",
 				"uiTheme": "vs-dark",
-				"path": "./themes/monokai-dark-soda-color-theme.json"
+				"path": "./themes/monokai-dark-pop-color-theme.json"
 			}
 		]
 	}
